@@ -21,4 +21,5 @@ ex.
 
 DyS/JS: render('abc', '< h1 > abc < /h1 >');
 
-HTML: <r-abc></r-abc>
+HTML: 
+< r-abc >< /r-abc >
