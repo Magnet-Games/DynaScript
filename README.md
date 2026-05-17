@@ -19,6 +19,6 @@ React Differences:
 
 ex. 
 
-DyS/JS: render('abc', '<h1>abc</h1>');
+DyS/JS: render('abc', '<p>&lt h1 &gt abc &lt h1 &gt</p>');
 
 HTML: <r-abc></r-abc>
