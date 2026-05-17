@@ -2,7 +2,7 @@
 
 DynaScript is a JS library designed to simplify Graphics, Game Dev, DOM, and events. With DynaScript, you can make more interactive or **Dynamic** web apps.
 
-DynaScript id simalar to jQuery and React, but there is some differences
+DynaScript is similar to jQuery and React, but there is some differences
 
 jQuery Differences:
 
