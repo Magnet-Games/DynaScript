@@ -1,4 +1,4 @@
-<h1>JS Perfected</h1>
+<h1 style="color:purple;">JS Perfected</h1>
 
 **Want JS to be easier? Use DynaScript!**
 
