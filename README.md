@@ -1,3 +1,5 @@
+<h1>JS Perfected</h1>
+
 **Want JS to be easier? Use DynaScript!**
 
 DynaScript is a JS library designed to simplify Graphics, Game Dev, DOM, and events. With DynaScript, you can make more interactive or **Dynamic** web apps.
