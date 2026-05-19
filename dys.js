@@ -3,7 +3,7 @@ DynaScript
 
 Developer: MelonPultVR
 Publisher: Magnet Games
-Version: 1.0(beta)
+Version: 1.0
 
 
 This Program is designed to simplify JS Canvas and Events  
